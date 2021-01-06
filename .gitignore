@@ -8,6 +8,5 @@
 !/subtree/**
 
 !/OOP/ex1/Program.cs
-!/OOP/ovning1/Program.cs
 
 !.gitignore
