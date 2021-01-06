@@ -1,0 +1,12 @@
+#ignore everything
+*
+
+#descend into directories
+!*/
+
+#Recursively allow files under subtree
+!/subtree/**
+
+!/OOP/ex1/Program.cs
+
+!.gitignore
