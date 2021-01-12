@@ -21,7 +21,6 @@ namespace ovning2
             return Convert.ToInt16((0.25 * points) - 1.5);
         }
 
-
         static void Main()
         {
             short studentPoints, grade;
