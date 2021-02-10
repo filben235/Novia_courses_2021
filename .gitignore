@@ -8,5 +8,7 @@
 !/subtree/**
 
 !/OOP/*.cs
+!/cpp/*.cpp
+!/cpp/*.h
 
 !.gitignore
