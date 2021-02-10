@@ -1,0 +1,11 @@
+C:\Users\filip\Desktop\it\OOP\ovning3\bin\Debug\netcoreapp3.1\ovning3.exe
+C:\Users\filip\Desktop\it\OOP\ovning3\bin\Debug\netcoreapp3.1\ovning3.deps.json
+C:\Users\filip\Desktop\it\OOP\ovning3\bin\Debug\netcoreapp3.1\ovning3.runtimeconfig.json
+C:\Users\filip\Desktop\it\OOP\ovning3\bin\Debug\netcoreapp3.1\ovning3.runtimeconfig.dev.json
+C:\Users\filip\Desktop\it\OOP\ovning3\bin\Debug\netcoreapp3.1\ovning3.dll
+C:\Users\filip\Desktop\it\OOP\ovning3\bin\Debug\netcoreapp3.1\ovning3.pdb
+C:\Users\filip\Desktop\it\OOP\ovning3\obj\Debug\netcoreapp3.1\ovning3.csprojAssemblyReference.cache
+C:\Users\filip\Desktop\it\OOP\ovning3\obj\Debug\netcoreapp3.1\ovning3.AssemblyInfoInputs.cache
+C:\Users\filip\Desktop\it\OOP\ovning3\obj\Debug\netcoreapp3.1\ovning3.AssemblyInfo.cs
+C:\Users\filip\Desktop\it\OOP\ovning3\obj\Debug\netcoreapp3.1\ovning3.dll
+C:\Users\filip\Desktop\it\OOP\ovning3\obj\Debug\netcoreapp3.1\ovning3.pdb

@@ -7,8 +7,7 @@
 #Recursively allow files under subtree
 !/subtree/**
 
-!/OOP/*.cs
-!/cpp/*.cpp
-!/cpp/*.h
+!/OOP/**
+!/cpp/**
 
 !.gitignore

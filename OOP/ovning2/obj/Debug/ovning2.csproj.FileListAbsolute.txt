@@ -1,0 +1,6 @@
+C:\Users\filip\Desktop\it\OOP\ovning2\obj\Debug\ovning2.csprojAssemblyReference.cache
+C:\Users\filip\Desktop\it\OOP\ovning2\bin\Debug\ovning2.exe.config
+C:\Users\filip\Desktop\it\OOP\ovning2\bin\Debug\ovning2.exe
+C:\Users\filip\Desktop\it\OOP\ovning2\bin\Debug\ovning2.pdb
+C:\Users\filip\Desktop\it\OOP\ovning2\obj\Debug\ovning2.exe
+C:\Users\filip\Desktop\it\OOP\ovning2\obj\Debug\ovning2.pdb

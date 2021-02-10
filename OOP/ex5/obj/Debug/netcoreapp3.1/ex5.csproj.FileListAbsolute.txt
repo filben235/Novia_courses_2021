@@ -1,0 +1,11 @@
+C:\Users\filip\Desktop\it\OOP\ex5\bin\Debug\netcoreapp3.1\ex5.exe
+C:\Users\filip\Desktop\it\OOP\ex5\bin\Debug\netcoreapp3.1\ex5.deps.json
+C:\Users\filip\Desktop\it\OOP\ex5\bin\Debug\netcoreapp3.1\ex5.runtimeconfig.json
+C:\Users\filip\Desktop\it\OOP\ex5\bin\Debug\netcoreapp3.1\ex5.runtimeconfig.dev.json
+C:\Users\filip\Desktop\it\OOP\ex5\bin\Debug\netcoreapp3.1\ex5.dll
+C:\Users\filip\Desktop\it\OOP\ex5\bin\Debug\netcoreapp3.1\ex5.pdb
+C:\Users\filip\Desktop\it\OOP\ex5\obj\Debug\netcoreapp3.1\ex5.csprojAssemblyReference.cache
+C:\Users\filip\Desktop\it\OOP\ex5\obj\Debug\netcoreapp3.1\ex5.AssemblyInfoInputs.cache
+C:\Users\filip\Desktop\it\OOP\ex5\obj\Debug\netcoreapp3.1\ex5.AssemblyInfo.cs
+C:\Users\filip\Desktop\it\OOP\ex5\obj\Debug\netcoreapp3.1\ex5.dll
+C:\Users\filip\Desktop\it\OOP\ex5\obj\Debug\netcoreapp3.1\ex5.pdb

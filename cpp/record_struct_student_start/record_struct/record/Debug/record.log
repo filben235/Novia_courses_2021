@@ -1,0 +1,6 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  main.cpp
+  Record.cpp
+  Generating Code...
+main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  record.vcxproj -> C:\Users\filip\Desktop\it\c++ forts\record_struct_student_start\record_struct\Debug\simple_record.exe

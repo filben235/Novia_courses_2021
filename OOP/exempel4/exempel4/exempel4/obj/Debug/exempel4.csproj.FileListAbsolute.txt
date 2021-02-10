@@ -1,0 +1,7 @@
+D:\objektorienterad programmering\exempel4\exempel4\bin\Debug\exempel4.exe.config
+D:\objektorienterad programmering\exempel4\exempel4\bin\Debug\exempel4.exe
+D:\objektorienterad programmering\exempel4\exempel4\bin\Debug\exempel4.pdb
+D:\objektorienterad programmering\exempel4\exempel4\obj\Debug\exempel4.csprojAssemblyReference.cache
+D:\objektorienterad programmering\exempel4\exempel4\obj\Debug\exempel4.csproj.CoreCompileInputs.cache
+D:\objektorienterad programmering\exempel4\exempel4\obj\Debug\exempel4.exe
+D:\objektorienterad programmering\exempel4\exempel4\obj\Debug\exempel4.pdb
